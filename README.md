@@ -1,37 +1,37 @@
 # pelatihan-nabrak-1
 
-##Statement
+## Statement
 
 statement merupakan perintah yang diberikan untuk melakukan suatu hal
 
-##Komentar
+## Komentar
 
 komentar adalah line of code yang diabaikan oleh compiler
 
-##Tipe data
+## Tipe data
 
 tipedata berfungsi untuk menentukan jenis isi dari sebuah variable
 
-##Variable
+## Variable
 
 variable adalah sebuah wadah untuk menyimpan sebuah nilai
 
-###deklarasi
+### deklarasi
 
 deklarasi adalah aksi untuk memperkenalkan variabel kedalam program
 
-###inisialisasi
+### inisialisasi
 
 inisialisasi adalah aksi pemberian nilai pertama kali pada sebuah variable
 
-###array
+### array
 
 array adalah kumpulan data yang letaknya berurutan
 
-###string 
+### string 
 string adalah kumpulan char yang disimpan dalam array -> array of char
 
-###relasional and logic operator
+### relasional and logic operator
 
 Operator relasional digunakan untuk memeriksa relasi dan membandingkan nilai dari dua operand
 
